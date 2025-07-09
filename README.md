@@ -65,7 +65,7 @@ The notebook generates:
 
 ## 📌 Credits
 
-- Author: [Your Name]
+- Author: FW
 - Based on classical graph theory and evolutionary optimization techniques
 
 ---
